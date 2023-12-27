@@ -24,3 +24,4 @@ LTO_ENABLE = yes
 SERIAL_DRIVER = vendor
 AUDIO_DRIVER = pwm_hardware
 KEY_OVERRIDE_ENABLE = yes
+REPEAT_KEY_ENABLE = yes
